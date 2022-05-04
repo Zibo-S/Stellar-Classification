@@ -1,4 +1,4 @@
-# inspecting note file in sequence of index\
+# inspecting code file in sequence of index\
 1_Final_Report_PhaseA.ipynb\
 \
 1.5_kNN_Final_Report_PhaseA_R.ipynb\
